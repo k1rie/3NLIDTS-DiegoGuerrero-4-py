@@ -1,0 +1,8 @@
+Nombres: Diego
+Apellidos: Gonzalez Guerrero
+Edad: 18
+Estatura: 167
+Telefono: 9611137503
+Genero: Hombre
+
+
